@@ -2,7 +2,7 @@
 
 ## Welcome
 
-The main repository for the Bretonnia website is private for security reasons, so this repository was created entirely to allow for feedback for the creation of git issues. 
+The main repository for the Bretonnia website is private for security reasons, so this repository was created entirely to allow for feedback through the creation of git issues. 
 
 ### If you have an issue...
 
