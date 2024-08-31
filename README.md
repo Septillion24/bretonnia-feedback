@@ -1,4 +1,4 @@
-# bretonnia-feedback
+# Bretonnia
 
 ## Welcome
 
